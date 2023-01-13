@@ -17,3 +17,5 @@ Position.propTypes = {
 Position.defaultProps = {
     position: 'main',
 };
+
+export default Position;
